@@ -1,0 +1,2 @@
+# Per-machine overrides never belong in the shared repo
+local.conf
